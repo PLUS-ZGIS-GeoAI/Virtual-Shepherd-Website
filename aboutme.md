@@ -47,6 +47,7 @@ Kreislaufwirtschaft umfasst. Konkret werden mit dem Projekt folgende Schwerpunkt
  - **Auflösung des Konfliktes Tourismus - Weidetierhaltung**
  - **Beitrag zur Entspannung des Konfliktes Großräuber - Weidetierhaltung**
  - **Herkunftsinformation für Weidevieh**
+
 Das Projekt beschäftigt sich mit Themen, die die lokale Wirtschaft in ruralen Umgebungen stärken und attraktivieren.
 Besonders die hohen Kosten und sowie die ungelösten Konflikte um die Weideviehhaltung im alpinen Gelände erschweren
 es, lokale Wertschöpfungsketten nachhaltig zu betreiben. Durch den Einsatz von intelligenten Technologien, wie dem realtime Tracking von Weidevieh mit Satelliten- und 5G Technologie, sowie der Kommunikation mittels LoraWAN (terrestrisch & satellitenbasiert) sowie 4G/5G Technologie ist es möglich die Weidetiere in alpinem Gelände vollständig ohne Zäune zu
