@@ -50,7 +50,7 @@ Kreislaufwirtschaft umfasst. Konkret werden mit dem Projekt folgende Schwerpunkt
 
 Das Projekt beschäftigt sich mit Themen, die die lokale Wirtschaft in ruralen Umgebungen stärken und attraktivieren.
 Besonders die hohen Kosten und sowie die ungelösten Konflikte um die Weideviehhaltung im alpinen Gelände erschweren
-es, lokale Wertschöpfungsketten nachhaltig zu betreiben. Durch den Einsatz von intelligenten Technologien, wie dem realtime Tracking von Weidevieh mit Satelliten- und 5G Technologie, sowie der Kommunikation mittels LoraWAN (terrestrisch & satellitenbasiert) sowie 4G/5G Technologie ist es möglich die Weidetiere in alpinem Gelände vollständig ohne Zäune zu
+es, lokale Wertschöpfungsketten nachhaltig zu betreiben. Durch den Einsatz von intelligenten Technologien, wie dem realtime Tracking von Weidevieh mit Satelliten- und 5G Technologie, sowie der Kommunikation mittels LoraWAN (terrestrisch & satellitenbasiert) sowie 4G/5G Technologie ist es möglich die Weidetiere in alpinem Gelände vollständig ohne Zäune zu
 halten und sensorgestützt zu monitoren. High-Performance Computing und Geoinformatik liefern die Technologie, um Daten
 “smart” zu übertragen und Anomalien in den Bewegungsmustern zu erkennen - die in weiterer Folge dazu genutzt werden,
 mittels UAVs die Herde zu überwachen. Erst wenn es zu einer Situation kommt, die das Eingreifen von Menschen notwendig
@@ -59,4 +59,4 @@ Shepherd temporäre virtuelle Schutzzonen um Wanderer gezogen werden, die einen 
 zB Wanderern weitgehend ausschließen - was die gleichzeitige Nutzung von alpinem Gelände für Weidetierhaltung und
 Tourismus ermöglicht.
 
-![Tracking device](/assets/img/tracker.jpg "Tracking device")
+![Tracking device](/assets/img/tracker.jpg)
