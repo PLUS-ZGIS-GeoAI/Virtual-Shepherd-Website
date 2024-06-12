@@ -58,3 +58,5 @@ macht, können diese tätig werden. Zur Lösung des Interessenkonflikts im Berei
 Shepherd temporäre virtuelle Schutzzonen um Wanderer gezogen werden, die einen direkten Kontakt von Weidetieren und
 zB Wanderern weitgehend ausschließen - was die gleichzeitige Nutzung von alpinem Gelände für Weidetierhaltung und
 Tourismus ermöglicht.
+
+![Tracking device](/assets/img/tracker.jpg "Tracking device")
